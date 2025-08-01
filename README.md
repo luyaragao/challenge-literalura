@@ -77,4 +77,4 @@ Após a aplicação iniciar, o menu interativo será exibido no seu terminal. Ba
 
 
 - Este projeto foi desenvolvido com propósito educacional, um challenge proposto pela alura na formação de desenvolvimento back end java.
-- ![Badge-Literalura.png](attachment:67d2260f-f2fa-431a-8f4c-60169d3fae54:Badge-Literalura.png)
+![Badge-Literalura.png](attachment:67d2260f-f2fa-431a-8f4c-60169d3fae54:Badge-Literalura.png)
