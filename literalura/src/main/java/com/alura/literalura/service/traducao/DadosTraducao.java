@@ -1,10 +1,8 @@
-package com.alura.literalura.dto;
+package com.alura.literalura.service.traducao;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
-import java.util.List;
 @JsonIgnoreProperties(ignoreUnknown = true)
-public record Dados (@JsonAlias("results") List<DadosLivro> resultados) {
-
+public record DadosTraducao(@JsonAlias(value = "responseData") DadosResposta dadosResposta) {
 }
