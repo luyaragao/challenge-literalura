@@ -1,9 +1,9 @@
 # Literalura 📖
 
 ![Status](https://img.shields.io/badge/status-concluído-green.svg)
-![Java](https://img.shields.io/badge/Java-21-blue?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-orange?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-brightgreen?logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue?logo=postgresql&logoColor=white)
 
 
 Literalura é uma aplicação de catálogo de livros via console desenvolvida em Java com Spring Boot. O projeto consome a API pública [Gutendex](https://gutendex.com/) para buscar livros e autores, permitindo que o usuário salve e gerencie suas leituras em um banco de dados local.
